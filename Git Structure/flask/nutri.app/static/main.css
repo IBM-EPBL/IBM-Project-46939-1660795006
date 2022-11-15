@@ -1,0 +1,75 @@
+
+.image{
+    
+     background-image: url(https://www.itl.cat/pngfile/big/228-2281950_quotes-about-nutrition-month.jpg);
+     background-position: center;
+     background-size: cover;
+     height: 80vh;
+
+}
+
+
+.title{
+     color: purple;
+     position: absolute;
+     top: 20%;
+     width: 100%;
+     text-align: left;
+     padding: 30px;
+}
+
+.read{
+     color: black;
+     position: absolute;
+     top: 30%;
+     width: 100%;
+     text-align: left;
+     padding: 30px;
+}
+
+.container{
+     position: absolute;
+     padding: 20px;
+     width: 100%;
+     top: 50%;
+}
+
+input[type="text"]
+{
+     padding: 0 25px;
+     border-radius: 25px 0 0 25px;
+     width: 350px;
+     font-size: 20px;
+     display: inline-block;
+     box-sizing: border-box;
+     
+
+
+}
+
+input[type="Submit"]
+{
+     position: relative;
+     display: inline-block;
+     font-size: 20px;
+     box-sizing: border-box;
+     border-radius: 0 25px 25px  0;
+     width: 100px;
+     background-color: paleturquoise;
+     padding: 0%;
+}
+.img{
+     background-image: url(https://static.wixstatic.com/media/64e8d3_4b62f37e58a54888abfc632cf7be6d8f~mv2.png/v1/fill/w_560,h_360,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BG_Main.png);
+     background-size: cover;
+     background-position: center;
+}
+
+.top-left{
+     position: absolute;
+     top: 70px;
+     left: 16px;
+     padding-left: 10px;
+     color: papayawhip;
+
+   }
+   
